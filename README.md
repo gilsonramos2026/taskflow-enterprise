@@ -6,11 +6,18 @@ Sistema de gestão de tarefas com **CRUD completo, paginação, filtros, valida�
 
 ## 🖼️ Preview
 
-> Adicione aqui as imagens reais do projeto.
+<img width="1366" height="582" alt="Image" src="https://github.com/user-attachments/assets/c901ef98-464f-4fdc-af70-381411d06f92" />
+
+<img width="925" height="605" alt="Image" src="https://github.com/user-attachments/assets/9a4c8764-a6a1-4973-9c41-678a5ddc0a84" />
 
 ### Interface do sistema
 
-![TaskFlow Enterprise](docs/images/taskflow-preview.png)
+<img width="1366" height="596" alt="Image" src="https://github.com/user-attachments/assets/e3b94f15-21c7-4ade-bfbf-897a1206a11b" />
+
+<img width="1366" height="593" alt="Image" src="https://github.com/user-attachments/assets/48d649b1-d560-49fc-b61f-ee62451e7b29" />
+
+<img width="1366" height="581" alt="Image" src="https://github.com/user-attachments/assets/8bffd5d7-8672-465e-934b-7e1045cb6f8e" />
+
 
 ---
 
