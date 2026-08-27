@@ -294,5 +294,4 @@ Projeto de portfólio — livre para uso e estudo.
 >Essa versão não adiciona JWT, Flyway, Axios, React Router, autenticação, dashboard, categorias, tags ou outras funcionalidades que não estavam no seu README original. Mantive as informações originais e trabalhei apenas a apresentação, organização, imagens, ícones e seus dados.
 
 
----#   t a s k f l o w - e n t e r p r i s e  
- 
+---#
